@@ -11,7 +11,7 @@ const profileSettings = {
   imageSrc: "media/profile.jpg", // Path ke gambar profil
   name: "Ditt Shepherd", // Nama profil
   occupation: "Always", // Pekerjaan atau jabatan
-  location: "Tangerang, Jawa Barat, Indonesia", // Lokasi
+  location: "Jatinegara, Jakarta Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
     { title: "TikTok", url: "https://tiktok.com/@dittstepherd", icon: "fa-tiktok" }, // Tautan GitHub
