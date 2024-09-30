@@ -3,23 +3,21 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "media/profile.jpg", // Path ke favicon
-  title: "ziell.xml | Profile", // Judul halaman
-  metaTitle: "ziell.xml || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website ziell.xml, anak mami yg imoet", // Deskripsi meta untuk SEO
+  title: "Ditt | Profile", // Judul halaman
+  metaTitle: "Ditt || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website Ditt", // Deskripsi meta untuk SEO
   metaKeywords: "Ziell, ziell.xml, profile ziell, siapa ziell?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/profile.jpg", // Path ke gambar profil
-  name: "ziell.xml", // Nama profil
-  occupation: "Anak mamih", // Pekerjaan atau jabatan
-  location: "Karawang, Jawa Barat, Indonesia", // Lokasi
+  name: "Ditt Shepherd", // Nama profil
+  occupation: "Always", // Pekerjaan atau jabatan
+  location: "Tangerang, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "TikTok", url: "https://tiktok.com/@ziell.xml", icon: "fa-tiktok" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/sr.nyzz", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/nyzziell", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:nyzziell@gmail.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.me/12268950399?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "Group WhatsApp", url: "https://chat.whatsapp.com/F729CJyYPA13hamtqQxn96", icon: "fa-whatsapp" } // Tautan YouTube
+    { title: "TikTok", url: "https://tiktok.com/@dittstepherd", icon: "fa-tiktok" }, // Tautan GitHub
+    { title: "Instagram", url: "https://www.instagram.com/dittgyllen", icon: "fa-instagram" }, // Tautan Instagram// Tautan Telegram
+    { title: "WhatsApp", url: "https://wa.me/6281311512335?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "My Channel", url: "https://whatsapp.com/channel/0029VagpakvFMqraXRFX0z0D", icon: "fa-whatsapp" } // Tautan YouTube
   ]
 };
 
