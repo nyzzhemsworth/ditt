@@ -14,7 +14,7 @@ const profileSettings = {
   location: "Jatinegara, Jakarta Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "TikTok", url: "https://tiktok.com/@dittstepherd", icon: "fa-tiktok" }, // Tautan GitHub
+    { title: "TikTok", url: "https://tiktok.com/@dittshepherd", icon: "fa-tiktok" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/dittgyllen_", icon: "fa-instagram" }, // Tautan Instagram// Tautan Telegram
     { title: "WhatsApp", url: "https://wa.me/6281311512335?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "My Channel", url: "https://whatsapp.com/channel/0029VagpakvFMqraXRFX0z0D", icon: "fa-whatsapp" } // Tautan YouTube
